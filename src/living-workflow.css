@@ -4364,3 +4364,8 @@ button:focus-visible > .lw-shot-hint {
     animation: none;
   }
 }
+
+/* Tools section: space between the heading and the logo rows. */
+#credentials .lw-marquee {
+  margin-top: 32px;
+}

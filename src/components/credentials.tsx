@@ -1,45 +1,16 @@
-import { ProjectScreenshot } from "@/components/project-screenshot";
-import { certificates } from "@/lib/certificates";
 import { ToolsMarquee } from "@/components/tools-marquee";
 
+/** Tools section: the apps and platforms Jonathan builds with. */
 export function Credentials() {
   return (
     <section id="credentials" className="lw-section lw-section-tight" aria-labelledby="credentials-title">
       <div className="lw-container">
         <p className="lw-eyebrow" data-reveal>
-          <span className="lw-mono-index">05</span> Credentials
+          <span className="lw-mono-index">05</span> Tools
         </p>
         <h2 id="credentials-title" className="lw-h2" data-reveal>
-          Certificates & tools
+          Tools I work with
         </h2>
-
-        <ul className="lw-cred-grid">
-          {certificates.map((cert) => (
-            <li key={cert.platform} className="lw-cred" data-reveal>
-              <div className="lw-cred-thumb">
-                <ProjectScreenshot
-                  title={`${cert.title}: Certificate of Completion`}
-                  images={[cert.img]}
-                  technologies={[cert.issuer, cert.date]}
-                  natural
-                />
-              </div>
-              <div className="lw-cred-body">
-                <h3 className="lw-h4">{cert.title}</h3>
-                <p>
-                  Certificate of Completion · {cert.issuer}
-                  <br />
-                  {cert.date}
-                </p>
-                <a href={cert.file} target="_blank" rel="noreferrer">
-                  View certificate ↗<span className="sr-only"> ({cert.platform}, opens in new tab)</span>
-                </a>
-              </div>
-            </li>
-          ))}
-        </ul>
-
-        <p className="lw-label lw-tools-label">Tools I work with</p>
         <ToolsMarquee />
       </div>
     </section>

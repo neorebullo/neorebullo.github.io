@@ -23,10 +23,6 @@
 
 n8n, GoHighLevel, Zapier, Make.com, Vapi, OpenAI, Gemini, Claude, OpenRouter, Supabase, Airtable, Google Workspace, APIs and webhooks.
 
-## Training
-
-Training certificates (certificates of completion, not vendor certifications): No Code Automation with Zapier, No Code Automation with Make.com, HighLevel CRM and Prompt Engineering from Tara AI Community+; AI Automation with n8n from Technical Virtual Assistants PH.
-
 ## Contact
 
 - Portfolio: https://rebullojonathan.github.io/
