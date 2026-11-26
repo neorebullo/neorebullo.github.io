@@ -1,6 +1,6 @@
 # Jonathan Rebullo — AI Automation Specialist
 
-Source code for my portfolio website: **https://rebullojonathan.github.io**
+Source code for my portfolio website: **https://neorebullo.github.io**
 
 I build AI voice agents, GoHighLevel CRM workflows and n8n automations that help
 businesses capture leads, book appointments and follow up automatically. Before

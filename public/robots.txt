@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://rebullojonathan.github.io/sitemap.xml
+Sitemap: https://neorebullo.github.io/sitemap.xml

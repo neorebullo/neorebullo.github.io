@@ -10,14 +10,14 @@
 
 ## Projects
 
-- [AI Voice Appointment Setter](https://rebullojonathan.github.io/#work): Vapi voice assistant with n8n workflows that check Google Calendar availability and book, reschedule or cancel appointments during the call; bookings logged to Airtable. Recorded test runs on the site.
-- [Messenger AI Lead Agent → GoHighLevel](https://rebullojonathan.github.io/#work): Facebook Messenger AI agent (n8n + Google Gemini) that answers property questions, collects and confirms a buyer's details, then saves the contact, opportunity, note and a follow-up task to GoHighLevel. Tested end to end on a demo Facebook Page.
-- [GoHighLevel CRM Pipeline Management](https://rebullojonathan.github.io/#work): real estate sales pipeline where every deal has an owner and each agent sees only their own leads.
-- [GoHighLevel CRM Lead Automation](https://rebullojonathan.github.io/#work): property inquiries from a GoHighLevel form become contacts and pipeline opportunities automatically.
-- [RAG Knowledge Assistant](https://rebullojonathan.github.io/#work): chat assistant that answers from a team's own documents, synced from Google Drive, with a Supabase vector store.
-- [Facebook Messenger AI Chatbot](https://rebullojonathan.github.io/#work): Messenger assistant that answers customer questions from the business's own information.
-- [HR Job Posting & Evaluation Assistant](https://rebullojonathan.github.io/#work): hiring workflow that takes in applications, evaluates CVs with AI and schedules interviews.
-- [Zapier & Make.com Automations](https://rebullojonathan.github.io/#work): lead engagement, lead enrichment, content repurposing and app integrations.
+- [AI Voice Appointment Setter](https://neorebullo.github.io/#work): Vapi voice assistant with n8n workflows that check Google Calendar availability and book, reschedule or cancel appointments during the call; bookings logged to Airtable. Recorded test runs on the site.
+- [Messenger AI Lead Agent → GoHighLevel](https://neorebullo.github.io/#work): Facebook Messenger AI agent (n8n + Google Gemini) that answers property questions, collects and confirms a buyer's details, then saves the contact, opportunity, note and a follow-up task to GoHighLevel. Tested end to end on a demo Facebook Page.
+- [GoHighLevel CRM Pipeline Management](https://neorebullo.github.io/#work): real estate sales pipeline where every deal has an owner and each agent sees only their own leads.
+- [GoHighLevel CRM Lead Automation](https://neorebullo.github.io/#work): property inquiries from a GoHighLevel form become contacts and pipeline opportunities automatically.
+- [RAG Knowledge Assistant](https://neorebullo.github.io/#work): chat assistant that answers from a team's own documents, synced from Google Drive, with a Supabase vector store.
+- [Facebook Messenger AI Chatbot](https://neorebullo.github.io/#work): Messenger assistant that answers customer questions from the business's own information.
+- [HR Job Posting & Evaluation Assistant](https://neorebullo.github.io/#work): hiring workflow that takes in applications, evaluates CVs with AI and schedules interviews.
+- [Zapier & Make.com Automations](https://neorebullo.github.io/#work): lead engagement, lead enrichment, content repurposing and app integrations.
 
 ## Tools
 
@@ -25,7 +25,7 @@ n8n, GoHighLevel, Zapier, Make.com, Vapi, OpenAI, Gemini, Claude, OpenRouter, Su
 
 ## Contact
 
-- Portfolio: https://rebullojonathan.github.io/
+- Portfolio: https://neorebullo.github.io/
 - Email: neo.rebullo@gmail.com
 - LinkedIn: https://linkedin.com/in/jonathan-rebullo-559005375/
 - Book a call: from the Contact section of the portfolio
