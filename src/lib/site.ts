@@ -15,7 +15,7 @@ export const site = {
   linkedin: "https://linkedin.com/in/jonathan-rebullo-559005375/",
   github: "https://github.com/neorebullo",
   /** Public address of the live site. Used for canonical links and structured data. */
-  url: "https://neorebullo.github.io/",
+  url: "https://rebullojonathan.com/",
   resumeUrl: resumePdf,
   photoUrl: profilePhoto,
   /** Formspree form that emails each contact-form message to the address above. Free plan: 50 messages a month. */

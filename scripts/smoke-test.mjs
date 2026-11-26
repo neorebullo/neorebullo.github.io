@@ -51,7 +51,7 @@ for (const [label, viewport] of [["desktop", { width: 1440, height: 900 }], ["mo
   const ldTypes = ld?.["@graph"]?.map((node) => node["@type"]) ?? [];
   check("structured data (Person, FAQPage) in HTML", ldTypes.includes("Person") && ldTypes.includes("FAQPage"), ldTypes.join(", ") || "missing");
   check("FAQ answers in prerendered HTML", html.includes("Common questions") && html.includes("Can you build an AI voice agent"));
-  check("canonical link in HTML", /<link[^>]*rel="canonical"[^>]*>/.test(html) && /<link[^>]*rel="canonical"[^>]*href="https:\/\/neorebullo\.github\.io\/"|<link[^>]*href="https:\/\/neorebullo\.github\.io\/"[^>]*rel="canonical"/.test(html));
+  check("canonical link in HTML", /<link[^>]*rel="canonical"[^>]*>/.test(html) && /<link[^>]*rel="canonical"[^>]*href="https:\/\/rebullojonathan\.com\/"|<link[^>]*href="https:\/\/rebullojonathan\.com\/"[^>]*rel="canonical"/.test(html));
   for (const file of ["/sitemap.xml", "/llms.txt", "/robots.txt"]) {
     const status = (await fetch(`http://localhost:4173${file}`)).status;
     check(`file ${file}`, status === 200, String(status));
